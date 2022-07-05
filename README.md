@@ -4,7 +4,7 @@
 - Meu email para contato é: pedro.junior19@escola.pr.gov.br
 - 🐱 Estou fazendo o curso alura.
 - 🌱 também estou aprendendo programação ...
-- 🫀 Para me contatar meu email é pedro.junior19@escola.pr.gov.br 💞️
+- 🫀 Para me contatar meu email está ali em cima 💞️
 
 <!---
 pedroornitorrinco/pedroornitorrinco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
